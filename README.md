@@ -1,5 +1,5 @@
-# EGamma
-ML-based E/Gamma Classification from its ECAL Shower Image
+# ML-based E/Gamma Classification 
+## Setup
 
 1. `git clone https://github.com/kyungminparkdrums/EGamma.git`
 
