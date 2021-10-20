@@ -1,7 +1,7 @@
 # ML-based E/Gamma Classification 
 ## Setup
 
-1. `git clone https://github.com/kyungminparkdrums/EGamma.git`
+1. Fork or clone this repository.
 
 2. Download `data.zip` from the link below and unzip the file. Locate the repository `data` in this repository `EGamma`.
 `https://drive.google.com/file/d/1Oc95-GqPPM_lJK_MbETyeP5ts84nDXgw/view?usp=sharing`
