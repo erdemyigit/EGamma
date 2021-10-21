@@ -1,0 +1,12 @@
+name: pytorch
+channels:
+    - conda-forge
+dependencies:
+    - python=3.6
+    - numpy
+    - matplotlib
+    - pyarrow
+    - scikit-learn
+    - pip:
+        - torch
+        - torch-summary
